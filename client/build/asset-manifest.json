@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce4595f2.css",
+    "main.js": "/static/js/main.89a21f52.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Family2.jpg": "/static/media/Family2.8c418f5493c0d8d6cd58.jpg",
+    "static/media/school.jpg": "/static/media/school.6426a2b8e4ac987e0a28.jpg",
+    "static/media/Kids2.jpg": "/static/media/Kids2.4e2a4f56563762e320a4.jpg",
+    "static/media/haras.jpg": "/static/media/haras.373d8911e55092796fa9.jpg",
+    "static/media/Rejection.jpg": "/static/media/Rejection.009873a93f37bbd65dc8.jpg",
+    "static/media/Homo1.jpg": "/static/media/Homo1.3b5f096654a0a9e1fd7d.jpg",
+    "static/media/BullyBoy.png": "/static/media/BullyBoy.c3e5c721bd52b227c294.png",
+    "static/media/family.svg": "/static/media/family.d91fe73255bdcb73d0d34b4cb403a921.svg",
+    "static/media/logo.svg": "/static/media/logo.1174266ba1504fbccfe732467fddc45b.svg",
+    "index.html": "/index.html",
+    "main.ce4595f2.css.map": "/static/css/main.ce4595f2.css.map",
+    "main.89a21f52.js.map": "/static/js/main.89a21f52.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce4595f2.css",
+    "static/js/main.89a21f52.js"
+  ]
+}
